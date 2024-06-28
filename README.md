@@ -15,4 +15,4 @@ En aqui desarolle mis habilidades en Excel para el Analisis de Datos, desde la l
 *
 
 ## Aqui podemos ver el primer ejemplo
-![](images/)
+![](images/970069.jpg)
