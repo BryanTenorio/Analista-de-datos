@@ -6,7 +6,7 @@ Repositorio para describir mi desarrollo como Analista de Datos.
 
 Cabe aclarar que no estoy aprendiendo de cero, tengo conocimiento previo de algunas herramientas, esto me ayudará a tener un orden y poder visualizar mi ruta a través del tiempo.
 
-### [1ra Parte: Excel](https://github.com/BryanTenorio/Excels-Projects.git)
+### [Excel](https://github.com/BryanTenorio/Excels-Projects.git)
 
 En aquí desarrollé mis habilidades en Excel para el Análisis de Datos, desde la limpieza de los datos hasta la realización de diferentes Dashboards.
 
