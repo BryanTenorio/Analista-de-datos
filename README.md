@@ -5,11 +5,9 @@ Repositorio para describir mi desarrollo como Analista de Datos. Este portafolio
 
 ### Tabla de Contenidos
 1. [Excel](#excel)
-2. [SQL](#sql)
-3. [Power BI](#power-bi)
-4. [Tableau](#tableau)
-5. [Python y Machine Learning](#python-y-machine-learning)
-6. [Otros Proyectos](#otros-proyectos)
+2. [SQL](#sql) <!--3. [Power BI](#power-bi) 4. [Tableau](#tableau)-->
+3. [Python y Machine Learning](#python-y-machine-learning)
+<!-- 6. [Otros Proyectos](#otros-proyectos)-->
 
 ## Excel
 ### [Limpieza de Datos](https://github.com/BryanTenorio/Excels-Projects#limpieza-de-datos)
@@ -28,13 +26,13 @@ Repositorio para describir mi desarrollo como Analista de Datos. Este portafolio
   [Ver en GitHub](https://github.com/BryanTenorio/Excels-Projects/blob/main/README.md#project-bike-sales)
 ## SQL
 
-## Power BI
+<!--## Power BI
 
-## Tableau
+## Tableau-->
 
 ## Python y Machine Learning
 
-## Otros proyectos
+<!--## Otros proyectos-->
 
 ---
 
